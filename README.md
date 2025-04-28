@@ -5,6 +5,7 @@
 
 This interactive Finance Dashboard was developed in Power BI to provide a comprehensive view of financial performance and support strategic decision-making for stakeholders. The dashboard is structured with user-friendly visuals and dynamic filters to deliver actionable insights at a glance.
 
+
 ✅ Objectives:
 
 Enable monitoring of financial KPIs and cash flow trends.
@@ -14,6 +15,7 @@ Identify performance gaps across different financial categories and time periods
 Provide drill-down capability into expenses and revenues for granular analysis.
 
 
+
 📌 Key Features:
 
 Dynamic Date Filters: Users can interact with slicers to filter financial data by custom date ranges.
@@ -21,6 +23,7 @@ Dynamic Date Filters: Users can interact with slicers to filter financial data b
 Category Breakdown: Detailed analysis of income and expenses by category and sub-category.
 
 Visuals: Bar charts, line graphs, area charts, Treemaps, Line and stacked column charts, Line and clustered column charts, and KPI cards for clear data storytelling.
+
 
 
 📊 Visualizations Used KPI Cards – Displaying Total Income, Expenses, Net Profit, and Profit Margin.
@@ -36,6 +39,7 @@ Line & Clustered Column Charts – Combined view of profit and trends over time.
 Slicers – Interactive filters for custom date range and category analysis
 
 
+
 🧮 DAX Measures Created custom DAX formulas to support advanced metrics, including:
 
 Monthly Average: AVERAGEX over months
@@ -45,6 +49,7 @@ Cumulative Totals: TOTALYTD for running sums
 Profit Margin (%): (Total Income - Total Expenses) / Total Income
 
 Variance Analysis: Comparison of current vs. previous periods
+
 
 
 📈 KPIs Included:
@@ -66,6 +71,7 @@ Profit Margin (%) – Measures the efficiency of profit generation relative to r
 Cumulative Totals – Running totals for Income and Expenses to track growth over time.
 
 Highest Expense Category – Highlights the top spending area to assist in cost control.
+
 
 
 ⚙️ Tools & Technologies Used:

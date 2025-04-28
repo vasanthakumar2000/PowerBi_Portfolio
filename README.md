@@ -1,4 +1,6 @@
-📊 Finance Power BI Dashboard – Portfolio Project
+**Power-BI-Portfolio
+**
+1)📊 Finance Power BI Dashboard – Portfolio Project
 
 This interactive Finance Dashboard was developed in Power BI to provide a comprehensive view of financial performance and support strategic decision-making for stakeholders. The dashboard is structured with user-friendly visuals and dynamic filters to deliver actionable insights at a glance.
 
@@ -68,5 +70,8 @@ DAX (Data Analysis Expressions) for calculated columns and measures.
 
 Power Query Editor for data transformation and cleaning.
 
-Dashboard Url: https://app.powerbi.com/view?r=eyJrIjoiNTg3NWJkNzktNzQxNy00NDNkLTllNTAtYTY2ZDEzYmQ0ZTI3IiwidCI6IjhhMzhkNWM5LWZmMmYtNDc5ZS04NjM3LWQ3M2Y2MjQxYTRmMCIsImMiOjEwfQ%3D%3D![6078100278801974883 (2)](https://github.com/user-attachments/assets/e4124a0c-128b-47c6-9348-3e9adea7ebe4)
-![6078100278801974056 (2)](https://github.com/user-attachments/assets/77183cbe-9b52-4781-86e9-07140c496b34)
+Dashboard Url: https://app.powerbi.com/view?r=eyJrIjoiNTg3NWJkNzktNzQxNy00NDNkLTllNTAtYTY2ZDEzYmQ0ZTI3IiwidCI6IjhhMzhkNWM5LWZmMmYtNDc5ZS04NjM3LWQ3M2Y2MjQxYTRmMCIsImMiOjEwfQ%3D%3D
+
+![6078100278801974883 (2)](https://github.com/user-attachments/assets/37488f32-3795-4cc1-8bdf-579c8dec5f52)
+![6078100278801974056 (2)](https://github.com/user-attachments/assets/d5f382e0-fa30-4dbf-b2a4-8c877de535f8)
+

@@ -51,7 +51,7 @@ This interactive Finance Dashboard was developed to provide an overview of finan
 
 ---
 
-This version is more concise but still maintains clarity and includes all the important details. Let me know if you need further adjustments!
+
 
 Dashboard Url: https://app.powerbi.com/view?r=eyJrIjoiNTg3NWJkNzktNzQxNy00NDNkLTllNTAtYTY2ZDEzYmQ0ZTI3IiwidCI6IjhhMzhkNWM5LWZmMmYtNDc5ZS04NjM3LWQ3M2Y2MjQxYTRmMCIsImMiOjEwfQ%3D%3D
 

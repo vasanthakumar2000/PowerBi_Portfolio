@@ -141,5 +141,5 @@ Dashboard Url: https://app.powerbi.com/view?r=eyJrIjoiNTg3NWJkNzktNzQxNy00NDNkLT
 
 ---
 
-Would you also like me to give you a **shorter version** you can directly paste into your GitHub README or portfolio page? 🚀  
-(If yes, I can format it nicely for you too!)
+DaASHBOARD IMAGE: 
+![Uploading 6082508650414457962 (1).jpg…]()

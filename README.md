@@ -89,3 +89,57 @@ Dashboard Url: https://app.powerbi.com/view?r=eyJrIjoiNTg3NWJkNzktNzQxNy00NDNkLT
 ![6078100278801974883 (2)](https://github.com/user-attachments/assets/37488f32-3795-4cc1-8bdf-579c8dec5f52)
 ![6078100278801974056 (2)](https://github.com/user-attachments/assets/d5f382e0-fa30-4dbf-b2a4-8c877de535f8)
 
+
+
+
+---
+
+2) # Blinkit Sales Performance Dashboard
+
+---
+
+### 📌 Objective:
+- To provide a comprehensive view of Blinkit's sales performance across different outlet types, outlet sizes, and item categories.
+- To help stakeholders monitor key sales trends, product category contributions, and outlet growth over time.
+- To deliver actionable insights that support business expansion, operational improvements, and product optimization.
+
+---
+
+### 📈 KPIs Included:
+- **Total Sales**: $1.20M
+- **Average Sales per Item**: $141
+- **Average Customer Rating**: 4
+- **Total Number of Items Sold**: 9K
+
+---
+
+### 🚀 Key Features:
+- **Dynamic Filter Panel**: Allows filtering based on Outlet Location Type, Outlet Size, and Item Type.
+- **Sales Distribution**: View sales split by fat content (Low Fat vs. Regular) and across item categories (Fruits, Snacks, Household, etc.).
+- **Outlet Establishment Trend**: Line chart visualizing outlet openings and performance from 2012 to 2022.
+- **Outlet Size Analysis**: Sales breakdown by small, medium, and high-sized outlets using donut charts.
+- **Outlet Location Insights**: Comparison of sales in Tier 1, Tier 2, and Tier 3 cities.
+- **Outlet Type Metrics**: Tabular view showing total sales, number of items, average sales, ratings, and visibility for each outlet type.
+- **Interactive and Clean Layout**: Ensures easy navigation and dynamic analysis for users.
+
+---
+
+### 🧠 Key Factors:
+- Strong **Data Modeling** to manage complex relationships between outlets, sales, and product categories.
+- Extensive use of **DAX** for calculated measures and KPIs.
+- **Power Query** for data transformation and ETL processes.
+- **Advanced Visual Design**: Focused on clarity, performance, and business relevance.
+
+---
+
+### ⚙️ Tools & Technologies Used:
+- Power BI
+- DAX (Data Analysis Expressions)
+- Power Query (M Language)
+- Data Modeling and ETL
+- Visualization and UX Design
+
+---
+
+Would you also like me to give you a **shorter version** you can directly paste into your GitHub README or portfolio page? 🚀  
+(If yes, I can format it nicely for you too!)

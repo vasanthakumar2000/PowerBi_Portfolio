@@ -3,7 +3,7 @@ Here’s a well-structured **portfolio project description** for your **Coffee S
 
 ---
 
-### 📝 **Project Title:**
+### 1)📝 **Project Title:**
 
 **Coffee Shop Sales Insights Dashboard**
 

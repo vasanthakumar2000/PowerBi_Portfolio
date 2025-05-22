@@ -56,10 +56,9 @@ To analyze and monitor coffee shop sales performance, product-wise sales contrib
 * **Average Daily Sales**
 
 ---
+**DASHBOARD IMAGES:**![COFFEE SHOP DASHBOARD](https://github.com/user-attachments/assets/2b65293b-2cf1-4ce8-87be-a26598c65d17)
 
-This dashboard was built using **Power BI Desktop** with design inspiration and guidance from a **YouTube tutorial**, focusing on applying real-world business analytics skills.
 
-Let me know if you want this tailored for a resume, or converted into a PDF case study.
 
 **2) 📊 Finance Power BI Dashboard**
 

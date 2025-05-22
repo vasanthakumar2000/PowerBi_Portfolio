@@ -1,6 +1,67 @@
 **Power-BI-Portfolio**
+Here’s a well-structured **portfolio project description** for your **Coffee Shop Sales Dashboard** built in Power BI:
 
-**1) 📊 Finance Power BI Dashboard**
+---
+
+### 📝 **Project Title:**
+
+**Coffee Shop Sales Insights Dashboard**
+
+---
+
+### 🎯 **Objective:**
+
+To analyze and monitor coffee shop sales performance, product-wise sales contribution, peak sales hours, and regional store performance to support business decisions through data visualization.
+
+---
+
+### 🔑 **Key Features:**
+
+* Interactive date filtering for **monthly sales analysis**
+* Weekday vs Weekend sales breakdown
+* Product category and item-level performance tracking
+* Store-wise performance comparison with growth trends
+* Hourly sales distribution across days
+* Dynamic KPIs and trend analysis
+
+---
+
+### 📊 **Visualizations Used:**
+
+* **KPI Cards** for Total Sales, Orders, Quantity Sold
+* **Line and Bar Combo Charts** for Sales Trends
+* **Donut Chart** for Weekday vs Weekend Analysis
+* **Stacked Bar Charts** for Hourly Sales by Day
+* **Horizontal Bar Charts** for Store and Product-level Sales
+
+---
+
+### 📐 **DAX Measures Used:**
+
+* `Total Sales = SUM(Sales[Sales Amount])`
+* `Total Orders = SUM(Sales[Order Quantity])`
+* `Total Quantity Sold = SUM(Sales[Quantity])`
+* `Sales Growth vs LM = DIVIDE([Current Month Sales] - [Last Month Sales], [Last Month Sales])`
+* `Average Sales Per Day = AVERAGEX(VALUES('Calendar'[Date]), [Total Sales])`
+* `Weekday/Weekend Sales Split using SWITCH and WEEKDAY logic`
+
+---
+
+### 📌 **KPIs Used:**
+
+* **Total Sales**
+* **Total Orders**
+* **Total Quantity Sold**
+* **% Growth vs Last Month**
+* **Average Daily Sales**
+
+---
+
+This dashboard was built using **Power BI Desktop** with design inspiration and guidance from a **YouTube tutorial**, focusing on applying real-world business analytics skills.
+
+Let me know if you want this tailored for a resume, or converted into a PDF case study.
+
+**2) 📊 Finance Power BI Dashboard**
 
 This interactive Finance Dashboard was developed to provide an overview of financial performance, enabling strategic decision-making with dynamic filters and user-friendly visuals.
 
@@ -65,7 +126,7 @@ Dashboard Url: https://app.powerbi.com/view?r=eyJrIjoiNTg3NWJkNzktNzQxNy00NDNkLT
 
 ---
 
-2) # Blinkit Sales Performance Dashboard
+3) # Blinkit Sales Performance Dashboard
 
 ---
 
